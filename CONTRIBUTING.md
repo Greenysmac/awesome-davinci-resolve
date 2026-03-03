@@ -4,9 +4,7 @@ Thank you for your interest in contributing to this curated list of DaVinci Reso
 
 ## How to Submit a Resource
 
-The easiest way to suggest a resource is through our submission form:
-
-👉 **[Submit a Resource]([https://github.com/Greenysmac/awesome-davinci-resolve?tab=readme-ov-file#dctls])**
+The easiest way to suggest a resource is through our submission **[form here](https://github.com/Greenysmac/awesome-davinci-resolve?tab=readme-ov-file#dctls)**.
 
 Fill out the form with details about the tool, plugin, or resource you'd like to add. Submissions are reviewed by the maintainers and added on a regular basis.
 
