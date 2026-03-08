@@ -76,6 +76,7 @@ Community-curated by [/r/colorists](https://reddit.com/r/colorists) and [/r/davi
 - [Film Convert (Nitrate)](http://www.filmconvert.com) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Film emulation and grain.
 - [Filmworkz](https://filmworkz.com) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Restoration tools from Digital Vision. *(by Digital Vision)*
 - [FXHome Ignite Pro](https://hitfilm.com/ignite-pro) ![Discontinued](https://img.shields.io/badge/Cost-Discontinued-lightgrey) — VFX and color suite. (Note: DISCONTINUED).
+- [GyroFlow](https://gyroflow.xyz) ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) — Reads camera gyro data to stabilize footage. Free and Open Source!
 - [Genesis film emulation](https://procolor.ist/genesis) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Film emulation tool.
 - [Greyscale Labs (Nano, Serum, Scalar)](https://greyscalelabs.com/nano) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Nano (Diffusion), Serum (Skin Refinement), and Scalar (Color-Control/uprez/debanding). *(by Greyscale Labs)*
 - [Hazy digital diffusion](https://www.filmconvert.com/plugin/hazy) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Diffusion plugin.
@@ -126,7 +127,6 @@ Community-curated by [/r/colorists](https://reddit.com/r/colorists) and [/r/davi
 - **BMD's x264 Encoder** ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) — Provided uncompiled by default; requires manual compilation. *(by BMD)* `Studio Required`
 - [ChopChop](https://www.chopchopsystems.com) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Tool to sync, organize footage, and build sync maps in 60 seconds.
 - [EditShare Flow Panel](https://editshare.com/editshares-flow-panel-for-davinci-resolve-studio-creates-gateway-to-wider-media-ecosystem-and-remote-proxy-editing) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Workflow Integration for Media Asset Management (MAM) in enterprise environments. *(by EditShare)* `Studio Required`
-- **GyroFlow** ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Reads camera gyro data to stabilize footage.
 - [Main Concept](https://www.mainconcept.com/blackmagic-plugins) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Encoder plugin for specialized deliverables (e.g., AS-11 UK DPP) and 8K HEVC. `Studio Required`
 - [Primestream Xchange](https://primestream.com/news/press-release/xchange-mam-pam-and-davinci-resolve-17-now-integrated) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — MAM/PAM workflow integration for use in enterprise environments. *(by Primestream)* `Studio Required`
 - [Studio Network Solutions (ShareBrowser)](https://www.studionetworksolutions.com/sns-unveils-sharebrowser-workflow-integration-plugin-for-davinci-resolve) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — ShareBrowser MAM workflow integration plugin. `Studio Required`
