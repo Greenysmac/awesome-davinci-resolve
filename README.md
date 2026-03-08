@@ -76,7 +76,7 @@ Community-curated by [/r/colorists](https://reddit.com/r/colorists) and [/r/davi
 - [Film Convert (Nitrate)](http://www.filmconvert.com) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Film emulation and grain.
 - [Filmworkz](https://filmworkz.com) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Restoration tools from Digital Vision. *(by Digital Vision)*
 - [FXHome Ignite Pro](https://hitfilm.com/ignite-pro) ![Discontinued](https://img.shields.io/badge/Cost-Discontinued-lightgrey) — VFX and color suite. (Note: DISCONTINUED).
-- [GyroFlow](https://gyroflow.xyz) ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) — Reads camera gyro data to stabilize footage. Free and Open Source!
+- [Gyroflow](https://gyroflow.xyz) ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) — Reads camera gyro data to stabilize footage. Free and Open Source!
 - [Genesis film emulation](https://procolor.ist/genesis) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Film emulation tool.
 - [Greyscale Labs (Nano, Serum, Scalar)](https://greyscalelabs.com/nano) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Nano (Diffusion), Serum (Skin Refinement), and Scalar (Color-Control/uprez/debanding). *(by Greyscale Labs)*
 - [Hazy digital diffusion](https://www.filmconvert.com/plugin/hazy) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Diffusion plugin.
