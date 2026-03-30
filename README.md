@@ -146,7 +146,7 @@ We extend our gratitude to all community members who have suggested resources, p
 
 ## Contributing
 
-Want to add a resource? Please read our [Contributing Guidelines](CONTRIBUTING.md) — the [easiest way is through our submission form.])(https://docs.google.com/forms/d/e/1FAIpQLSdpbb2pSkkbMkLUFJxnVvlaH-FyO8IMRVxVgL2Lh6okBAqe1Q/viewform)
+Want to add a resource? Please read our [Contributing Guidelines](CONTRIBUTING.md) — the [easiest way is through our submission form.](https://docs.google.com/forms/d/e/1FAIpQLSdpbb2pSkkbMkLUFJxnVvlaH-FyO8IMRVxVgL2Lh6okBAqe1Q/viewform)
 
 ## License
 
