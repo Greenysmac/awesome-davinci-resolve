@@ -100,6 +100,7 @@ Community-curated by [/r/colorists](https://reddit.com/r/colorists) and [/r/davi
 - [Textuler](https://textuler.io/features) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Ultimate plugin for creating chat & text bubbles, advanced text, and UI elements.
 - **TimeInPixel (Nobe tools)** ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Color Assistance Tools: Nobe OmniScope, Nobe Display, False Color Nobe.
 - [VideoVillage (Filmbox/Scatter)](https://videovillage.co/filmbox) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — FilmBox (Film Emulation) and Scatter (Diffusion). Also makes Lattice (LUT builder). *(by VideoVillage)* `macOS only`
+- [framechart](https://framechart.com) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Animated chart generation tool from .csv data files. *(by DonData)*
 
 ## Templates, Macros, & Scripts
 
