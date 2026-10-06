@@ -141,6 +141,7 @@ If a tool isn't listed yet, it hasn't been rejected on merit — it may simply b
 - [NewBlue](https://www.newbluefx.com) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Mostly for titling, but some other tools. Common for AVID systems.
 - **NodeMill LensNode** ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Lens Simulations.
 - [NTSC-RS](https://ntsc.rs) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Provides a VHS Effect in OpenFX. <sub>(⭐ 2552 · updated 2026-09)</sub>
+- [OpenEmulsion](https://github.com/technomancer702/openemulsion) ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) — Open-source film-emulation OFX with independently switchable negative/print response, grain, halation, aura, and bloom. OpenCL acceleration with CPU fallback; experimental Windows x64 release. MPL-2.0. *(by technomancer702)* `Windows`
 - [purzos-ofx](https://github.com/purzbeats/purzos-ofx) ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) — Purzos collection of retro, analog, glitch, CRT, and VHS OpenFX effects. MIT. *(by purzbeats)* `macOS, Windows, Linux` <sub>(⭐ 23 · updated 2026-08)</sub>
 - [QR-coder](https://github.com/nikita-petrovich/OFX-QRCoder) ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) — Generate QR codes right in DaVinci Resolve or other OpenFX compatible software. *(by nikita-petrovich)* `macOS`
 - [RE:vision Effects](https://revisionfx.com/products/for/resolve) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Includes Twixtor (for speed warps) and ReelSmart Motion Blur.
