@@ -265,6 +265,7 @@ If a tool isn't listed yet, it hasn't been rejected on merit — it may simply b
 - [snap-captions](https://github.com/cutbypham/snap-captions) ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) — Community Snap Captions distribution and additional caption styles. *(by cutbypham)* <sub>(⭐ 27 · updated 2025)</sub>
 - [squawk](https://github.com/in03/squawk) ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) — Whisper subtitle integration that renders timeline audio, transcribes it, and imports subtitles. Resolve 18; archived / no longer maintained. *(by in03)* `18` <sub>(⭐ 40 · updated 2025)</sub>
 - [srt_to_textplus](https://github.com/atmosfar/srt_to_textplus) ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) — Generate animated Fusion TextPlus titles from SRT subtitles. Legacy Python 2.7 workflow. *(by atmosfar)* <sub>(⭐ 12 · updated 2020)</sub>
+- [whisper-word-captions](https://github.com/philippprimisser-max/whisper-word-captions) ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) — Offline word-by-word highlighted captions with faster-whisper and ffmpeg: burns them into the video and can also write a plain .srt to import into Resolve. Standalone Python script, not a Resolve plugin. *(by philippprimisser-max)* `macOS, Windows, Linux`
 
 ## Gen Media
 
