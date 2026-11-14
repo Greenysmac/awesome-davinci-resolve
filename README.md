@@ -156,6 +156,7 @@ If a tool isn't listed yet, it hasn't been rejected on merit — it may simply b
 - [Tetrahedral Interpolation for Fusion](https://github.com/EmberLightVFX/Tetrahedral-Interpolation-for-Fusion) ![Free](https://img.shields.io/badge/Cost-Free-brightgreen) — Fusion implementation of tetrahedral color manipulation. *(by EmberLightVFX)* `macOS, Windows, Linux` <sub>(⭐ 32 · updated 2020)</sub>
 - [Textuler](https://textuler.io/features) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Ultimate plugin for creating chat & text bubbles, advanced text, and UI elements.
 - **TimeInPixel (Nobe tools)** ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Color Assistance Tools: Nobe OmniScope, Nobe Display, False Color Nobe.
+- [Totonoe Skin Retouch for DaVinci Resolve](https://fukudafukuo.github.io/totonoe/en/resolve/) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — Skin retouch OFX that detects skin by color and smooths it while keeping edges and fine texture. Free trial with a watermark; separate product from the Premiere Pro / After Effects version. Tested on Resolve 20.3.2 (Free). *(by Totonoe)* `macOS only` `20.3.2`
 - [VideoVillage (Filmbox/Scatter)](https://videovillage.co/filmbox) ![Paid](https://img.shields.io/badge/Cost-Paid-orange) — FilmBox (Film Emulation) and Scatter (Diffusion). Also makes Lattice (LUT builder). *(by VideoVillage)* `macOS only`
 
 ## Templates, Macros, & Scripts
